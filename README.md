@@ -214,19 +214,53 @@ The dataset is relatively small, so the analysis does not assume that discounts 
 
 ---
 
-##  Visualizations
+## 📊 Visualizations
 
-The project includes visualizations for:
+### Monthly Revenue Trend
 
-- Monthly Revenue Trend
-- Revenue by Region
-- Revenue by Category
-- Revenue by Product
-- Revenue by Customer
-- Product Revenue vs Quantity
+![Monthly Revenue Trend](screenshots/monthly_revenue.png)
 
-These visualizations help identify patterns that may not be immediately visible from raw data.
+The monthly trend shows that revenue peaked in February and declined during March and April.
 
+---
+
+### Revenue by Region
+
+![Revenue by Region](screenshots/revenue_by_region.png)
+
+West generated the highest revenue among the four regions.
+
+---
+
+### Revenue by Category
+
+![Revenue by Category](screenshots/revenue_by_category.png)
+
+Electronics contributed the majority of total revenue, while Accessories had the highest unit volume.
+
+---
+
+### Revenue by Product
+
+![Revenue by Product](screenshots/revenue_by_product.png)
+
+Laptop was the highest revenue-generating product in the dataset.
+
+---
+
+### Revenue by Customer
+
+![Revenue by Customer](screenshots/revenue_by_customer.png)
+
+Revenue is concentrated among a smaller group of high-value customers.
+
+---
+
+### Product Revenue vs Quantity
+
+![Product Revenue vs Quantity](screenshots/product_revenue_quantity.png)
+
+The scatter plot highlights the difference between product sales volume and revenue contribution.
 ---
 
 ## 💡 Key Insights
