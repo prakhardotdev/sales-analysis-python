@@ -1,0 +1,31 @@
+order_id,order_date,customer_id,product,category,quantity,price,discount,region
+1001,2026-01-03,C001,Laptop,Electronics,2,55000,0.05,North
+1002,2026-01-05,C002,Mouse,Accessories,5,800,0.00,South
+1003,2026-01-07,C003,Keyboard,Accessories,3,1500,0.10,East
+1004,2026-01-10,C001,Monitor,Electronics,1,18000,0.05,North
+1005,2026-01-13,C004,Office Chair,Furniture,2,8500,0.15,West
+1006,2026-01-18,C005,Laptop,Electronics,1,60000,0.00,South
+1007,2026-01-21,C006,Desk,Furniture,1,12000,0.10,East
+1008,2026-01-25,C002,Headphones,Accessories,2,2500,0.05,South
+1009,2026-02-02,C007,Phone,Electronics,2,30000,0.08,West
+1010,2026-02-05,C008,Tablet,Electronics,1,22000,0.00,North
+1011,2026-02-08,C003,Mouse,Accessories,4,800,0.00,East
+1012,2026-02-12,C009,Office Chair,Furniture,3,8500,0.10,South
+1013,2026-02-15,C010,Laptop,Electronics,1,58000,0.05,West
+1014,2026-02-19,C004,Desk,Furniture,2,12000,0.00,West
+1015,2026-02-22,C005,Keyboard,Accessories,5,1500,0.10,South
+1016,2026-02-26,C001,Monitor,Electronics,2,18000,0.05,North
+1017,2026-03-03,C011,Phone,Electronics,1,32000,0.05,East
+1018,2026-03-06,C012,Headphones,Accessories,3,2500,0.00,West
+1019,2026-03-10,C006,Office Chair,Furniture,1,8500,0.10,East
+1020,2026-03-14,C007,Laptop,Electronics,2,55000,0.08,West
+1021,2026-03-18,C008,Mouse,Accessories,6,800,0.00,North
+1022,2026-03-22,C009,Desk,Furniture,1,12000,0.05,South
+1023,2026-03-25,C010,Tablet,Electronics,2,22000,0.10,West
+1024,2026-03-29,C002,Keyboard,Accessories,3,1500,0.00,South
+1025,2026-04-02,C011,Laptop,Electronics,1,60000,0.05,East
+1026,2026-04-05,C012,Monitor,Electronics,2,18000,0.00,West
+1027,2026-04-09,C003,Office Chair,Furniture,2,8500,0.15,East
+1028,2026-04-13,C004,Phone,Electronics,1,30000,0.05,West
+1029,2026-04-17,C005,Headphones,Accessories,4,2500,0.10,South
+1030,2026-04-21,C006,Desk,Furniture,2,12000,0.00,North
